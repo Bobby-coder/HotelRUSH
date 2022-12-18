@@ -56,7 +56,7 @@ const Header = () => {
 
         <div className="flex items-center">
           <div onClick={() => setSignInToggle(true) & setNavToggle(false)}>
-            <button className="text-white uppercase bg-gray-800 hover:bg-gray-600 focus:ring-4 focus:ring-gray-400 focus:outline-none font-medium rounded-[5px] text-sm px-3 py-2 text-center inline-flex items-center dark:focus:ring-gray-600">
+            <button className="text-white uppercase bg-gray-800 hover:bg-gray-600 focus:ring-4 focus:ring-gray-400 focus:outline-none font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center dark:focus:ring-gray-600">
               Sign In
               <svg
                 aria-hidden="true"
