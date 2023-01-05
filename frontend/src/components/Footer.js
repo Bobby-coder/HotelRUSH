@@ -13,7 +13,7 @@ const Footer = () => {
 
   return (
     <>
-      <footer className="p-4 bg-white w-full sm:p-6 dark:bg-gray-900 border-t-2 border-solid dark:border-gray-700">
+      <footer className="p-4 bg-white w-full sm:p-6 dark:bg-gray-900 border-t-[1px] border-solid dark:border-gray-700">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <div>
